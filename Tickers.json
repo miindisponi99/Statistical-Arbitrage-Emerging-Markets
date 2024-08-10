@@ -1,0 +1,30 @@
+{
+    "tickers": [
+        "600028.SS", "600519.SS", "601318.SS", "601766.SS", "601939.SS", 
+        "ABEV", "BBD", "BRFS", "EBR", "VALE3.SA", "MELI", "PAM",
+        "ALSEA.MX", "AMX", "BOLSAA.MX", "GCC.MX", "KOF", 
+        "HDB", "HINDUNILVR.NS", "INFY", "RELIANCE.NS", "TCS.NS",
+        "FSR.JO", "MTN.JO", "NPN.JO", "SBK.JO", "^TNX"
+    ],
+    "additional_tickers": [
+        "VNO", "REG", "SPG", "JNJ", "ORCL", "GS", "UPS", "CHTR", "GILD", 
+        "LOW", "CVS", "AVGO", "F", "NEE", "DHR", "BKNG", "AAPL", 
+        "MSFT", "AMZN", "GOOGL", "GOOG", "TSLA", "JPM", "V", "PG", "UNH", 
+        "INTC", "HD", "MA", "DIS", "XOM", "VZ", "KO", "MRK", "PFE", "NFLX", 
+        "CSCO", "BA", "CVX", "IBM", "MMM", "CAT", "RTX", "MCD", "WFC", 
+        "SBUX", "PEP", "NKE", "C", "QCOM", "COST", "T", "MS", "HON", "LLY", 
+        "ACN", "CRM", "TXN", "MDLZ", "ADP", "MO", "GE", "COP", "AMGN", "SO", 
+        "KMI", "INTU", "AIG", "SPGI", "MU", "VLO", "CME", "ECL", "GM", "SLB", 
+        "CMCSA", "FDX", "AAL", "HAL", "LMT", "WM", "MDT", "ISRG", "ILMN", 
+        "ABT", "UNP", "BMY", "LIN", "TCEHY", "NVDA", "BAC", "WMT", "^HSI", 
+        "^GSPC", "^VIX", "XOM", "SPY", "QQQ", "VTI", "IWM", "GLD", "VWO", 
+        "EFA", "XLF", "XLU", "USO", "UNG", "UGA", "GLTR", "ADBE", "CTSH", 
+        "FTNT", "PGR", "ROL", "TTWO", "IJR", "MDY", "VOE", "VOT", "IWP", 
+        "IWS", "JKH", "IVOO", "MDYG", "PSA", "PLD", "ICE", "DFS", "MCO", 
+        "EQR", "NTES", "HDB", "ITUB", "EEM", "JCI", "ADSK", "SCHW", "CINF", 
+        "RJF", "AMAT", "AMT", "AAP", "ADM", "APH", "AEP", "AIV", "ALB", 
+        "ALGN", "BIIB", "BLK", "ANSS", "AOS", "APA", "APD", "AXP", "AZO", 
+        "BAX", "BDX", "CHRW", "CI", "CL", "CLX", "CMG", "CMI", "CNA", "CNP", 
+        "CNX", "COF", "CPB", "CPRI", "CF", "CHD", "BSX", "BWA", "BXP", "CBRE"
+    ]
+}
